@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbRn0WKQcPz7eDsMX9VJvbmIb2DKByzDtJ0SsqmKdteWNNGUZJ364Os+FozuocNU6YffQcOaYTRumxeakXRdFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
